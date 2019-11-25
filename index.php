@@ -1,4 +1,4 @@
 <?php 
 
-echo " Thanks bro hfhgfhgf";
+echo " Thanks sandbox";
 ?>
